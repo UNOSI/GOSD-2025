@@ -3,9 +3,14 @@
 
 ### 零、背景与联合国视角
 
+联合国和可持续发展目标的参考：
 - 对标联合国 ESG 发展目标：[《2030 年可持续发展议程》](https://www.un.org/sustainabledevelopment/zh/development-agenda/)、[《数字合作路线图》](https://www.un.org/zh/content/digital-cooperation-roadmap/)、[《全球数字契约》](https://www.un.org/zh/documents/treaty/A-RES-79-1-Annex-I)
 - 开源与 ESG：[《LF 开源促进可持续性报告》](https://www.linuxfoundation.org/research/open-source-sustainability)、[《OSPOs for Good》](https://www.un.org/digital-emerging-technologies/sites/www.un.org.techenvoy/files/OSPOs_for_Good_Report_1.pdf)
 - 联盟组织：[Digital Public Goods Alliance](https://www.digitalpublicgoods.net/)
+
+联合国已有的参考报告：
+- [《The-Sustainable-Development-Goals-Report-2024》](https://unstats.un.org/sdgs/report/2024/)：可持续发展报告（SDR）回顾了自2015年193个联合国会员国通过可持续发展目标以来，每年在可持续发展目标方面取得的进展，并且首次使用可持续发展目标指数（SDGi）评估了哪些国家在可持续发展目标方面取得了最大进展。
+- [《Sustainable Development Report 2025 (SDR)》](https://dashboards.sdgindex.org/)：指监测全球 2030 年可持续发展议程进展的官方报告。该报告利用最新的可用数据和估算，对 2030 年议程进行了全面评估，旨在提供基础资源，利用最新数据和证据，为制定推进可持续发展目标进展的建议和解决方案。
 
 ### 一、开源发展目标报告
 
