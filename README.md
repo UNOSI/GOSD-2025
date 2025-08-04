@@ -6,6 +6,7 @@
 联合国和可持续发展目标的参考：
 - 对标联合国 ESG 发展目标：[《2030 年可持续发展议程》](https://www.un.org/sustainabledevelopment/zh/development-agenda/)、[《数字合作路线图》](https://www.un.org/zh/content/digital-cooperation-roadmap/)、[《全球数字契约》](https://www.un.org/zh/documents/treaty/A-RES-79-1-Annex-I)
 - 开源与 ESG：[《LF 开源促进可持续性报告》](https://www.linuxfoundation.org/research/open-source-sustainability)、[《OSPOs for Good》](https://www.un.org/digital-emerging-technologies/sites/www.un.org.techenvoy/files/OSPOs_for_Good_Report_1.pdf)
+  - [LF Research and the LF Sustainability Initiative](https://www.youtube.com/watch?v=goUhTzZkFDg)
 - 联盟组织：[Digital Public Goods Alliance](https://www.digitalpublicgoods.net/)
 
 联合国已有的参考报告：
