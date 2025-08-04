@@ -12,6 +12,11 @@
 - [《The-Sustainable-Development-Goals-Report-2024》](https://unstats.un.org/sdgs/report/2024/)：可持续发展报告（SDR）回顾了自2015年193个联合国会员国通过可持续发展目标以来，每年在可持续发展目标方面取得的进展，并且首次使用可持续发展目标指数（SDGi）评估了哪些国家在可持续发展目标方面取得了最大进展。
 - [《Sustainable Development Report 2025 (SDR)》](https://dashboards.sdgindex.org/)：指监测全球 2030 年可持续发展议程进展的官方报告。该报告利用最新的可用数据和估算，对 2030 年议程进行了全面评估，旨在提供基础资源，利用最新数据和证据，为制定推进可持续发展目标进展的建议和解决方案。
 
+因此，参考上面两个报告，结合开源与可持续性发展议题，拟研制两个主题报告：
+
+- **开源发展目标报告（OSDGs）**：设定开源支撑联合国 ESG 发展的目标，若干年发布一次，侧重在目标、愿景与整体性框架的构建。
+- **全球开源发展报告（GOSD）**：以年度报告的形式，每年给出反映全球开源发展现状的报告，侧重在数据与案例的支撑上面。
+
 ### 一、开源发展目标报告
 
 - **英文名称：** Open Source Development Goals Report: A Shared Vision for the Digital Age (OSDGs)
