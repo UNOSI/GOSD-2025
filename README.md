@@ -1,6 +1,12 @@
 # GOSD-2025
 2025 Global Open Source Development Report
 
+### 零、背景与联合国视角
+
+- 对标联合国 ESG 发展目标：[《2030 年可持续发展议程》](https://www.un.org/sustainabledevelopment/zh/development-agenda/)、[《数字合作路线图》](https://www.un.org/zh/content/digital-cooperation-roadmap/)、[《全球数字契约》](https://www.un.org/zh/documents/treaty/A-RES-79-1-Annex-I)
+- 开源与 ESG：[《LF 开源促进可持续性报告》](https://www.linuxfoundation.org/research/open-source-sustainability)、[《OSPOs for Good》](https://www.un.org/digital-emerging-technologies/sites/www.un.org.techenvoy/files/OSPOs_for_Good_Report_1.pdf)
+- 联盟组织：[Digital Public Goods Alliance](https://www.digitalpublicgoods.net/)
+
 ### 一、开源发展目标报告
 
 - **英文名称：** Open Source Development Goals Report: A Shared Vision for the Digital Age (OSDGs)
