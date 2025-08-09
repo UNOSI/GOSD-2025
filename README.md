@@ -99,7 +99,7 @@
 
 **附录 A：评价指标说明**（华东师大）
 
-**附录 B：数字公共品类目**（信通院） https://github.com/UNOSI/GOSD-2025/issues/4
+**附录 B：全球数字公共品编码体系**（信通院） https://github.com/UNOSI/GOSD-2025/issues/4
 
 *注：本报告的统计时间段定为 2025-07-01 至 2025-06-31
 
