@@ -64,7 +64,8 @@
   - 参考：[《数字公共品研究报告》](https://www.zwbdata.com/upfiles/attachment/2025/0123/34a03c85-2acf-09ae-d0dd-53243f1ba3b1.pdf)、[《关于健全数字公共产品制度推进开源创新生态建设的若干思考》](http://old2022.bulletin.cas.cn/zgkxyyk/ch/reader/view_abstract.aspx?file_no=20241112&flag=1)、[《数字公共产品开放协作治理机制研究》](https://cstj.cqvip.com/Qikan/Article/Detail?id=7200172517)
 - 开源发展目标概述（？待定）
   - 借鉴[《Open Source for Sustainability》](https://www.linuxfoundation.org/research/open-source-sustainability)，定义开源发展目标(OSDGs)，阐述其长期愿景和框架。
-  - 参考：联合国[“OSPOs for Good 2024”](https://www.un.org/digital-emerging-technologies/content/ospos-good-2024) 
+  - 参考：联合国[“OSPOs for Good 2024”](https://www.un.org/digital-emerging-technologies/content/ospos-good-2024)
+ 
 **第二章：2025 年度开源生态发展数据洞察**
 - 宏观数据分析（CCF ODC）
   - 参考：[《2024 中国开源年度报告》](https://kaiyuanshe.github.io/2024-China-Open-Source-Report/)，以及[开源世界 "人口普查"报告开展](https://open-digger.cn/blog/2025-4-11-global-developer-analysis)
