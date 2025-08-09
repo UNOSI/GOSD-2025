@@ -50,6 +50,10 @@
   
 ----
 
+<div align=center>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/5ae1440c-569b-4cca-b805-135af265abdd" />
+</div>
+
 ### 2025 全球开源发展报告（GOSD 2025）编制大纲
 
 **引言：开源创新支撑全球 ESG 发展**
