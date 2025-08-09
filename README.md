@@ -56,49 +56,58 @@
 
 ### 2025 全球开源发展报告（GOSD 2025）编制大纲
 
-**引言：开源创新支撑全球 ESG 发展**
+**引言：开源创新与全球 ESG 发展的融合**
 - 背景介绍
   - 开源软件及其在全球数字化转型中的角色。
   - 对标联合国《2030年可持续发展议程》、《数字合作路线图》等重要文件中的相关目标。
 - 开源与ESG
   - 探讨开源在环境、社会和治理(ESG)标准中的作用。
 
-**第一章：开源发展目标(OSDGs)**
+**第一章：开源发展目标（OSDGs）概述（15%）**
 - 数字公共品视角下的开源创新（中科院科技战略咨询研究院）
   - 参考：[《数字公共品研究报告》](https://www.zwbdata.com/upfiles/attachment/2025/0123/34a03c85-2acf-09ae-d0dd-53243f1ba3b1.pdf)、[《关于健全数字公共产品制度推进开源创新生态建设的若干思考》](http://old2022.bulletin.cas.cn/zgkxyyk/ch/reader/view_abstract.aspx?file_no=20241112&flag=1)、[《数字公共产品开放协作治理机制研究》](https://cstj.cqvip.com/Qikan/Article/Detail?id=7200172517)
 - 开源发展目标概述（？待定）
   - 借鉴[《Open Source for Sustainability》](https://www.linuxfoundation.org/research/open-source-sustainability)，定义开源发展目标(OSDGs)，阐述其长期愿景和框架。
   - 参考：联合国[“OSPOs for Good 2024”](https://www.un.org/digital-emerging-technologies/content/ospos-good-2024)
+  - **开源发展目标（Open Source Development Goals, OSDGs）**是基于开源软件及其生态系统在全球数字化转型中所扮演的关键角色，以及其对促进环境、社会和治理（ESG）标准实现的重要贡献而提出的一系列目标。这些目标旨在通过开放协作、知识共享和技术普惠来推动全球可持续发展，与联合国《2030年可持续发展议程》及《数字合作路线图》等国际框架中的愿景相呼应。
  
-**第二章：2025 年度开源生态发展数据洞察**
-- 宏观数据分析（CCF ODC）
+**第二章：2025 开源生态发展数据洞察（45%）**
+- 2.1 宏观数据分析（CCF ODC）https://github.com/UNOSI/GOSD-2025/issues/5
   - 参考：[《2024 中国开源年度报告》](https://kaiyuanshe.github.io/2024-China-Open-Source-Report/)，以及[开源世界 "人口普查"报告开展](https://open-digger.cn/blog/2025-4-11-global-developer-analysis)
   - 从数字公共品的视角看（七类）：开源软件、开放数据、开放人工智能模型、开放标准、开放内容、开放科学、开放硬件
-- 排行榜与趋势数据分析
+- 2.2 排行榜与趋势数据分析 https://github.com/UNOSI/GOSD-2025/issues/6
   - 参考《2024 中国开源年度报告》（开源社）
-  - 四大开源领域：数据库（CCF 数据库专委）、数据工程、云原生（DaoCloud）、人工智能（蚂蚁） https://github.com/UNOSI/GOSD-2025/issues/1
-  - 两大开源基金会：Apache（CoC Asia）、CNCF（？） https://github.com/UNOSI/GOSD-2025/issues/2
-- 全球开源学术成果数据洞察（复旦大学）
-- 成功案例研究
-  - 深入探讨几个具有代表性的开源项目或社区的成功故事。
-  - 国际化项目：Kubernetics、PyTorch、[Redis/Valkey](https://open-digger.cn/blog/2024-04-04-redis-analysis)
+- 2.3 技术领域数据洞察 https://github.com/UNOSI/GOSD-2025/issues/7
+  - 数据库（CCF 数据库专委）
+  - 大数据与数据工程（待定）
+  - 云原生（DaoCloud）
+  - 人工智能（蚂蚁） 
+- 2.4 基金会数据洞察 https://github.com/UNOSI/GOSD-2025/issues/8
+  - Apache 基金会（CoC Asia）
+  - CNCF 基金会（待定）
+- 2.5 全球开源学术成果数据洞察（复旦大学）https://github.com/UNOSI/GOSD-2025/issues/9
+  - 参考：数据驱动的开源学术成果演化规律与合作模式分析
+- 2.6 全球开源案例研究 https://github.com/UNOSI/GOSD-2025/issues/10
+  - 深入探讨几个具有代表性的企业、开源项目或社区的成功故事。
+  - 企业：微软、谷歌、蚂蚁、华为
+  - 国际项目：freeCodeCamp、K8S、[Redis/Valkey](https://open-digger.cn/blog/2024-04-04-redis-analysis)
   - 中国发起的项目：TiDB、DaoCloud、Doris 等
 
-**第三章：2025 年度开源人工智能发展现状**
+**第三章：2025 开源人工智能发展现状（25%）** https://github.com/UNOSI/GOSD-2025/issues/3
 - 人工智能进入开源时代（上海交大）
   - 参考：[《开源人工智能：合作的价值与未来》](https://www.sipa.sjtu.edu.cn/show/6336)、[《解读国际人工智能开源合作倡议》](https://mp.weixin.qq.com/s/o9_Jkz6ZwbnN1qn7RaLUpQ)
-- 开源 AI 大模型专题 https://github.com/UNOSI/GOSD-2025/issues/3
-  - AI 大模型技术体系开源开放分级评估（标准院）
-  - AI 大模型技术体系综合开源影响力排行榜（智源）
-  - 基于专利与论文数据的开源 AI 发展洞察（上海人工智能实验室）
+- AI 大模型技术体系开源开放分级体系（标准院）
+- AI 大模型技术体系综合开源影响力排行榜（智源）
+- 基于专利与论文数据的开源 AI 发展洞察（上海人工智能实验室）
 
-**第四章：未来展望与挑战**
-- 未来趋势预测
-  - 根据当前数据和案例预测未来几年开源的发展方向。
-- 面临的主要挑战
-  - 讨论开源生态系统目前面临的挑战及应对策略。
+**第四章：未来展望与挑战（5%）**
+- 基于前面章节的分析，对开源技术及其生态系统在未来的发展趋势进行展望，并识别出可能面临的挑战。
+  - 开源技术发展趋势
+  - 可持续发展目标下的开源贡献
+  - 面临的挑战
+  - 应对策略与建议
 
-**结语**
+**结语：迈向可持续的数字未来**
 - 强调开源对于推动全球向更公平、更可持续的方向发展的重要性，并呼吁各界加强合作，共同推进开源事业的发展。
 
 **附录 A：评价指标说明**（华东师大）
