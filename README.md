@@ -52,7 +52,7 @@
 
 ### 2025 全球开源发展报告（GOSD 2025）编制大纲
 
-**引言**
+**引言：开源创新支撑全球 ESG 发展**
 - 背景介绍
   - 开源软件及其在全球数字化转型中的角色。
   - 对标联合国《2030年可持续发展议程》、《数字合作路线图》等重要文件中的相关目标。
@@ -60,29 +60,29 @@
   - 探讨开源在环境、社会和治理(ESG)标准中的作用。
 
 **第一章：开源发展目标(OSDGs)**
-- 开源发展目标概述
-  - 定义开源发展目标(OSDGs)，阐述其长期愿景和框架。
-- 开源发展的关键领域
-  - 创新、包容性增长、可持续发展等方面的目标设定。
-
+- 数字公共品视角下的开源创新（中科院科技战略咨询研究院）
+  - 参考：[《数字公共品研究报告》](https://www.zwbdata.com/upfiles/attachment/2025/0123/34a03c85-2acf-09ae-d0dd-53243f1ba3b1.pdf)、[《关于健全数字公共产品制度推进开源创新生态建设的若干思考》](http://old2022.bulletin.cas.cn/zgkxyyk/ch/reader/view_abstract.aspx?file_no=20241112&flag=1)、[《数字公共产品开放协作治理机制研究》](https://cstj.cqvip.com/Qikan/Article/Detail?id=7200172517)
+- 开源发展目标概述（？待定）
+  - 借鉴[《Open Source for Sustainability》](https://www.linuxfoundation.org/research/open-source-sustainability)，定义开源发展目标(OSDGs)，阐述其长期愿景和框架。
+  - 参考：联合国[“OSPOs for Good 2024”](https://www.un.org/digital-emerging-technologies/content/ospos-good-2024) 
 **第二章：2025 年度开源生态发展数据洞察**
-- 宏观数据分析
-  - 参考[《2024 中国开源年度报告》](https://kaiyuanshe.github.io/2024-China-Open-Source-Report/)，以及[开源世界 "人口普查"报告开展](https://open-digger.cn/blog/2025-4-11-global-developer-analysis)
+- 宏观数据分析（CCF ODC）
+  - 参考：[《2024 中国开源年度报告》](https://kaiyuanshe.github.io/2024-China-Open-Source-Report/)，以及[开源世界 "人口普查"报告开展](https://open-digger.cn/blog/2025-4-11-global-developer-analysis)
 - 排行榜与趋势数据分析
-  - 参考《2024 中国开源年度报告》
-  - 四大开源领域：数据库、数据工程、云原生、人工智能 https://github.com/UNOSI/GOSD-2025/issues/1
-  - 两大基金会：Apache、CNCF https://github.com/UNOSI/GOSD-2025/issues/2
-  - AI 大模型专题 https://github.com/UNOSI/GOSD-2025/issues/3
+  - 参考《2024 中国开源年度报告》（开源社）
+  - 四大开源领域：数据库（CCF 数据库专委）、数据工程、云原生（DaoCloud）、人工智能（蚂蚁） https://github.com/UNOSI/GOSD-2025/issues/1
+  - 两大开源基金会：Apache（CoC Asia）、CNCF（？） https://github.com/UNOSI/GOSD-2025/issues/2
 - 成功案例研究
   - 深入探讨几个具有代表性的开源项目或社区的成功故事。
   - 国际化项目：Kubernetics、PyTorch、[Redis/Valkey](https://open-digger.cn/blog/2024-04-04-redis-analysis)
   - 中国发起的项目：TiDB、DaoCloud、Doris 等
 
-**第三章：开源对社会经济的影响**
-- 开源与经济发展
-  - 开源如何促进经济增长和就业机会。
-- 教育和社会影响
-  - 开源资源对教育体系及社会其他方面的贡献。
+**第三章：2025 年度开源人工智能发展现状**
+- 人工智能进入开源时代（上海交大）
+  - 参考：[《开源人工智能：合作的价值与未来》](https://www.sipa.sjtu.edu.cn/show/6336)、[《解读国际人工智能开源合作倡议》](https://mp.weixin.qq.com/s/o9_Jkz6ZwbnN1qn7RaLUpQ)
+- 开源 AI 大模型专题 https://github.com/UNOSI/GOSD-2025/issues/3
+  - AI 大模型技术体系开源开放分级评估（标准院）
+  - AI 大模型技术体系综合开源影响力排行榜（智源）
 
 **第四章：未来展望与挑战**
 - 未来趋势预测
