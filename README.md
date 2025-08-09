@@ -69,6 +69,7 @@
 **第二章：2025 年度开源生态发展数据洞察**
 - 宏观数据分析（CCF ODC）
   - 参考：[《2024 中国开源年度报告》](https://kaiyuanshe.github.io/2024-China-Open-Source-Report/)，以及[开源世界 "人口普查"报告开展](https://open-digger.cn/blog/2025-4-11-global-developer-analysis)
+  - 从数字公共品的视角看（七类）：开源软件、开放数据、开放人工智能模型、开放标准、开放内容、开放科学、开放硬件
 - 排行榜与趋势数据分析
   - 参考《2024 中国开源年度报告》（开源社）
   - 四大开源领域：数据库（CCF 数据库专委）、数据工程、云原生（DaoCloud）、人工智能（蚂蚁） https://github.com/UNOSI/GOSD-2025/issues/1
