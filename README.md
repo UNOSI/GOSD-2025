@@ -66,7 +66,7 @@
 **第一章：开源发展目标（OSDGs）概述（15%）**
 - 数字公共品视角下的开源创新（中科院科技战略咨询研究院）
   - 参考：[《数字公共品研究报告》](https://www.zwbdata.com/upfiles/attachment/2025/0123/34a03c85-2acf-09ae-d0dd-53243f1ba3b1.pdf)、[《关于健全数字公共产品制度推进开源创新生态建设的若干思考》](http://old2022.bulletin.cas.cn/zgkxyyk/ch/reader/view_abstract.aspx?file_no=20241112&flag=1)、[《数字公共产品开放协作治理机制研究》](https://cstj.cqvip.com/Qikan/Article/Detail?id=7200172517)
-- 开源发展目标概述（？待定）
+- 开源发展目标概述
   - 借鉴[《Open Source for Sustainability》](https://www.linuxfoundation.org/research/open-source-sustainability)，定义开源发展目标(OSDGs)，阐述其长期愿景和框架。
   - 参考：联合国[“OSPOs for Good 2024”](https://www.un.org/digital-emerging-technologies/content/ospos-good-2024)
   - **开源发展目标（Open Source Development Goals, OSDGs）**是基于开源软件及其生态系统在全球数字化转型中所扮演的关键角色，以及其对促进环境、社会和治理（ESG）标准实现的重要贡献而提出的一系列目标。这些目标旨在通过开放协作、知识共享和技术普惠来推动全球可持续发展，与联合国《2030年可持续发展议程》及《数字合作路线图》等国际框架中的愿景相呼应。
