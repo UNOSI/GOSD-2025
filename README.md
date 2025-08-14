@@ -80,7 +80,7 @@
 - 2.3 技术领域数据洞察 https://github.com/UNOSI/GOSD-2025/issues/7
   - 数据库（CCF 数据库专委）
   - 大数据与数据工程（待定）
-  - 云原生（DaoCloud）
+  - 云原生（CNCF）
   - 人工智能（蚂蚁） 
 - 2.4 基金会数据洞察 https://github.com/UNOSI/GOSD-2025/issues/8
   - Apache 基金会（CoC Asia）
